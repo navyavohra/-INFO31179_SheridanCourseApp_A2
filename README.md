@@ -42,8 +42,16 @@ Menus, icons, etc are based on your own creativity and understanding of HCI conc
 
 <img width="1055" alt="Screen Shot 2022-02-25 at 10 28 41 AM" src="https://user-images.githubusercontent.com/69279321/155741909-4cd39970-f26a-4f1f-be39-60354d2dd209.png">
 
-## Figma Link
+## New desirable functionlities
 
+- Webpage to go directly to slate page
+- Professor profile page
+- Calling, sending voice message to personal chat with class mates
+- Make groups of class mates
+- Side Drawer to select the courses
+- Student One card tap on the application.
+
+## Figma Link
 
 - [Prototype Figma-Sheridan course Application Flutter App](https://www.figma.com/file/MGZuFqzJTyu9aImrvjwUYf/Sheridan-Course-App?node-id=0%3A1)
 
